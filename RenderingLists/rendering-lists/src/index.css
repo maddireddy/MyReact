@@ -1,0 +1,29 @@
+.category-name{
+
+  font-size: 2em;
+  font-weight: bold;
+  color: hsl(0, 52%, 54%);
+  margin-bottom: 10px;
+  text-align: center;
+  border: 3px;
+  border-radius: 5px;
+  border-color: hsl(185, 49%, 46%);
+
+}
+
+.item-name li{
+
+  font-size: 2em;
+  list-style: none;
+  color: aqua;
+  text-align: center;
+  margin: 0;
+
+}
+
+.item-name li:hover{
+
+ color: brown;
+ cursor: pointer;
+
+}
